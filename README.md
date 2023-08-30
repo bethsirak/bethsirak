@@ -1,6 +1,10 @@
 Hey, I'm Beth Sirak! 👋🏽
 
-I'm a Consultant and a Full-Stack Engineer with a passion for technology and creative problem-solving. 💻 You can also check out many of my real-life projects demonstrated on my GitHub 🚀.
+I'm a Consultant and a Full-Stack Engineer with a passion for technology and creative problem-solving.
+You can also check out my projects linked below 👇🏽
+
+🌐 Current Mission: Crafting code to create a better world!
+
 
 👩🏽‍💻 Qualifications:
 - BA (Hons) Economics with Psychology - First-Class 
