@@ -1,6 +1,6 @@
 Hey, I'm Beth Sirak! 👋🏽
 
-I'm a Consultant and a Full-Stack Engineer with a passion for technology and creative problem-solving.
+I'm a Consultant and a Python Engineer with a passion for technology and creative problem-solving.
 You can also check out my projects linked below 👇🏽
 
 🌐 Current Mission: Crafting code to create a better world!
